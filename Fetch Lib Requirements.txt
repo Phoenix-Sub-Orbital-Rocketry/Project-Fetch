@@ -1,0 +1,9 @@
+In order to compile and upload the software to Fetch, you need these libraries:
+
+	SPI.h
+	Wire.h
+	LoRa.h
+	Adafruit_GFX.h
+	Adafruit_SSD1306.h
+
+All of these libraries can be found through the library manager in the Arduino IDE and/or Github
