@@ -1,8 +1,8 @@
-Partlist exported from C:/Users/Christopher/Downloads/Reciver2.sch at 1/11/2021 10:33 PM
-
-Part Value                    Device                   Package                  Description                                                    MF                 MPN          OC_FARNELL OC_NEWARK POPULARITY
-JP1                           HEADER-1X570MIL          1X05_ROUND_70            PIN HEADER                                                                                                                    
-JP2                           HEADER-1X14              1X14_ROUND70                                                                                                                                           
-JP4                           HEADER-1X14              1X14_ROUND70                                                                                                                                           
-U$2  WIRELESS-LORA-RFM95W#THT WIRELESS-LORA-RFM95W#THT WIRELESS-LORA-RFM95W#THT 868/915 MHz LoRa Radio Transceiver Module based on SX1276 chip                                                                
-X2   SMA-142-0701-801/806     SMA-142-0701-801/806     J502-ND-142-0701-801/806 SMA 50 Ohm End Launch Jack Receptacle - Round Contact          JOHNSON COMPONENTS 142-0701-801 1608592    90F2624   5         
+Object                                                                           |     Quanity
+                                                                                 |         
+Adafruit ItsyBitsy M0 Express - for CircuitPython & Arduino IDERFM95W Module     |        2
+SMA Female Jack Connector, Brass PCB Clip Edge Mount Adapter                     |        2
+2mm Pitch 40-Pin Break-apart Male Headers                                        |        1
+Lithium Ion Polymer Battery - 3.7v 350mAh                                        |        2
+Adafruit LiIon/LiPoly Backpack Add-On for Pro Trinket/ItsyBitsy                  |        2
+0.91 Inch I2C SSD1306 OLED Display Module                                        |        2
