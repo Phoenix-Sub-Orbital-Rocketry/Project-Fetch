@@ -1,0 +1,8 @@
+Object                                                                           |     Quanity
+                                                                                 |         
+Adafruit ItsyBitsy M0 Express - for CircuitPython & Arduino IDERFM95W Module     |        2
+SMA Female Jack Connector, Brass PCB Clip Edge Mount Adapter                     |        2
+2mm Pitch 40-Pin Break-apart Male Headers                                        |        1
+Lithium Ion Polymer Battery - 3.7v 350mAh                                        |        2
+Adafruit LiIon/LiPoly Backpack Add-On for Pro Trinket/ItsyBitsy                  |        2
+0.91 Inch I2C SSD1306 OLED Display Module                                        |        2
